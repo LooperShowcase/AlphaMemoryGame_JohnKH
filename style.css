@@ -82,7 +82,7 @@ h4 {
 }
 
 .card .back {
-    background-image: url("/CBG.png");
+    background-image: url("./CBG.png");
     background-position: center center;
     background-size: cover;
     backface-visibility: hidden;
